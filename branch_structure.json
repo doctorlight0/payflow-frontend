@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "issue-97-cancel-all-subscriptions",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "issue-97-cancel-all-subscriptions": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "issue-97-cancel-all-subscriptions",
+    "origin"
+  ]
+}
